@@ -188,7 +188,7 @@ const TaskPanel: React.FC<TaskPanelProps> = ({
           )}
         </>
       )}
-      {/* Confirmation popup */}
+
       {showConfirmation && (
         <div className="confirmation-popup">
           <TextField
