@@ -19,4 +19,10 @@ for the design i used a color palet i get it from google
  color palette that i used : 
   #DCF2F1   #7FC7D9     #365486   #0F1035 
 
-  after that i start to create the task form and the tabs part  and so on
+  after that i start to create the task form and the tabs part  and so on    
+
+
+  the  localStorage
+  This file manages task data storage in the browser's 
+  localStorage, providing functions to save and load both active and 
+  completed tasks using specified keys.
