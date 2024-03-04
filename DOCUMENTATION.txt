@@ -1,0 +1,22 @@
+ installation
+  To setup the project envirment, ensure the installation of 
+     - MaterailUI
+     -Reacoil  
+
+ Challenges Encounterd:
+Atomic Design Structure:
+
+The implementation of the Atomic design structure posed some
+    complexity but was partially integrated into
+ the project for component organization and reusability purposes.
+
+Handling Due Dates:
+
+Despite multiple attempts, integrating due dates entered by users into
+ the task cards remained unresolved, presenting a persistent challenge.
+
+for the design i used a color palet i get it from google 
+ color palette that i used : 
+  #DCF2F1   #7FC7D9     #365486   #0F1035 
+
+  after that i start to create the task form and the tabs part  and so on

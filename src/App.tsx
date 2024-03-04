@@ -1,10 +1,19 @@
 import "./App.css";
-import Tabspage from "./components/Pages/Tabspage";
+import { RecoilRoot } from "recoil";
+import HorizontalTabs from "../src/components/Pages/Tabs";
+import Footer from "../src/components/Organisms/Footer";
+import Header from "../src/components/Organisms/Header";
+
 function App() {
   return (
     <>
-      <div className="">Work in processing</div>
-      <Tabspage />
+      <RecoilRoot>
+        <div>
+          <Header />
+          <HorizontalTabs />
+          <Footer />
+        </div>
+      </RecoilRoot>
     </>
   );
 }
