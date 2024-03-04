@@ -1,0 +1,41 @@
+/* styles.css */
+.header {
+    text-align: center;
+    padding-top: rem;
+    background-color: #4a5568; /* gray-800 equivalent */
+    color: #ffffff; /* text-white equivalent */
+  }
+  
+  .header h1 {
+    font-size: 2.25rem; /* text-4xl equivalent */
+    font-weight: bold;
+  }
+  
+  .header h1 span {
+    border-bottom: 2px solid transparent;
+  }
+  
+  .header h1 span:hover {
+    border-bottom-color: #4299e1; /* hover:border-blue-500 equivalent */
+    transition-duration: 0.5s; /* duration-500 equivalent */
+  }
+  /* styles.css */
+
+.footer {
+  font-color: #365486; /* bg-#365486-200 equivalent */
+  padding-top: 1rem; /* py-4 equivalent */
+}
+
+.footer .container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer .flex {
+  display: flex;
+  justify-content: center;
+}
+
+.animation-text {
+  font-size: 10px; /* Adjust the font size as needed */
+}

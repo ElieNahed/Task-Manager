@@ -18,7 +18,7 @@ const Alert: React.FC<AlertProps> = ({ text }) => {
         width: "90%", // Set width to 90% of the container
         maxWidth: "40rem", // Set max width for larger screens
         position: "absolute",
-        top: "90%", // Position in the center vertically
+        top: "80%", // Position in the center vertically
         left: "50%", // Position in the center horizontally
         transform: "translate(-50%, -50%)", // Center the alert
         zIndex: 999, // Ensure it appears above other elements
